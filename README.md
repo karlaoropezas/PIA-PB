@@ -1,8 +1,8 @@
 # PIA-PB
-Universidad Autónoma de Nuevo León \n
-Facultad de Ciencias Físico Matemáticas \n
-PIA (Proyecto Integrador de Aprendizaje) \n
-Miembros del equipo:\n
+Universidad Autónoma de Nuevo León  
+Facultad de Ciencias Físico Matemáticas 
+PIA (Proyecto Integrador de Aprendizaje) 
+Miembros del equipo: 
 Ivan Meneses
 Karla Gauna
 Karla Oropeza

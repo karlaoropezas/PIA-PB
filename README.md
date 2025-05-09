@@ -1,5 +1,5 @@
 # PIA-PB
-Universidad Autónoma de Nuevo León /n
+Universidad Autónoma de Nuevo León 
 Facultad de Ciencias Físico Matemáticas
 PIA (Proyecto Integrador de Aprendizaje)
 Miembros del equipo:

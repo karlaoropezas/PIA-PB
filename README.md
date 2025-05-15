@@ -7,14 +7,14 @@ PIA (Proyecto Integrador de Aprendizaje)
 
 Miembros del equipo:
 
-Ivan Meneses
+-Ivan Meneses
 
-Karla Gauna
+-Karla Gauna
 
-Karla Oropeza
+-Karla Oropeza
 
-Emiliano Delfín
+-Emiliano Delfín
 
-Saúl Peralta
+-Saúl Peralta
 
 PIA de programación que se centra en recabar datos sobre la población en México clasificados por edad de la API de la INEGI
